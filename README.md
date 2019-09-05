@@ -13,7 +13,7 @@ Said that we can start now :D
 
 * Backup `/System/Library/PrivateFrameworks/SidecarCore.framework/Versions/A/SidecarCore` in case something goes wrong.
 
-* Disable [SIP](https://en.wikipedia.org/wiki/System_Integrity_Protection) check with `$ csrutil status`
+* Disable [SIP](https://en.wikipedia.org/wiki/System_Integrity_Protection). Check status with `$ csrutil status`
 
 * clone this repo `$ git clone http://dev.zeppel.eu/luca/SidecarCorePatch.git`
 
