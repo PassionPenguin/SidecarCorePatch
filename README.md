@@ -1,5 +1,4 @@
 Enables Sidecar support on MacOS Catalina 10.15 Beta (19A546d) on non Apple supported devices.
-
 ----
 
 Since the last update by Apple the non modifying version of this patch doesn't work anymore.
