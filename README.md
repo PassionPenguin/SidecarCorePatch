@@ -11,6 +11,11 @@ By running this patch you take full responsibility for your system, we do not co
 Said that we can start now :D
 
 * Backup `/System/Library/PrivateFrameworks/SidecarCore.framework/Versions/A/SidecarCore` in case something goes wrong.
+
 * Disable [SIP](https://en.wikipedia.org/wiki/System_Integrity_Protection) check with `$ csrutil status`
+
 * clone this repo `$ git clone http://dev.zeppel.eu/luca/SidecarCorePatch.git`
+
 * run the patch as root `$ sudo swift patch.swift`
+
+* reboot your mac
