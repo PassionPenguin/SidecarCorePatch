@@ -4,6 +4,8 @@ Enables Sidecar support on MacOS Catalina 10.15 Beta (19A546d) on non Apple supp
 
 Since the last update by Apple the non modifying version of this patch doesn't work anymore.
 
+Have a look [here](https://twitter.com/stroughtonsmith/status/1136413491462594560/photo/1) weather your device is not supported.
+
 Modifying the system brings a certain risk with it. That is why it recommended to backup your system before trying to patch.
 
 By running this patch you take full responsibility for your system, we do not come up for any damage done by this patch. Use it at own risk!
@@ -18,4 +20,10 @@ Said that we can start now :D
 
 * run the patch as root `$ sudo swift patch.swift`
 
-* reboot your mac
+* reboot your
+
+
+
+Known issues
+----
+#1 Permission issue - read only
