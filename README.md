@@ -22,6 +22,8 @@ Said that we can start now :D
 * reboot your
 
 
+Please open issues if something doesn't work!
+
 
 Known issues
 ----
