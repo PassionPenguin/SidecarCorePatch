@@ -28,4 +28,5 @@ Please open issues if something doesn't work!
 Known issues
 ----
 #1 Permission issue - read only
+
 #2 Can't use Sidecar
