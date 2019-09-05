@@ -19,7 +19,7 @@ Said that we can start now :D
 
 * run the patch as root `$ sudo swift patch.swift`
 
-* reboot your
+* reboot
 
 
 Please open issues if something doesn't work!
