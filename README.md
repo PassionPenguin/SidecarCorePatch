@@ -26,9 +26,11 @@ Please open issues if something doesn't work!
 
 Testing
 ----
-Beta 19A546d ✅ Confirmed
+Beta 19A546d ✅
 
 Beta 19A558d ⚠️ Not tested, please open an issue waether it works or not.
+
+Beta 19A573a ✅
 
 
 
