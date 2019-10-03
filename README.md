@@ -32,6 +32,8 @@ Beta 19A558d ⚠️ Not tested, please open an issue waether it works or not.
 
 Beta 19A573a ✅
 
+Beta 19A578c ✅
+
 
 
 Known issues
