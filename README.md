@@ -3,7 +3,7 @@ Enables Sidecar support on MacOS Catalina 10.15 Beta on non Apple supported devi
 
 Since the last update by Apple the non modifying version of this patch doesn't work anymore.
 
-Have a look [here](https://twitter.com/stroughtonsmith/status/1136413491462594560/photo/1) weather your device is not supported.
+Have a look [here](https://twitter.com/stroughtonsmith/status/1136413491462594560/photo/1) wether your device is not supported.
 
 Modifying the system brings a certain risk with it. That is why it recommended to backup your system before trying to patch.
 
@@ -28,7 +28,7 @@ Testing
 ----
 Beta 19A546d ✅
 
-Beta 19A558d ⚠️ Not tested, please open an issue waether it works or not.
+Beta 19A558d ⚠️ Not tested, please open an issue wether it works or not.
 
 Beta 19A573a ✅
 
