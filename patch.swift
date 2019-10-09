@@ -29,7 +29,8 @@ func shell(_ command: String) -> String{
 }
 
 func printError(_ message: String){
-    print("Ooops! Something went wrong: \(message)")
+    print("Something went wrong: \(message)")
+  	print("Check the issues for a solution.")
     exit(1)
 }
 
@@ -60,7 +61,7 @@ if !original.contains(original_model_list){
 }
 
 if !(shell("csrutil status") == ("System Integrity Protection status: disabled.\n")){
-    printError("System Integrity Protection is enabled.")
+    printError("System Integrity Protection is enabled. Please disable it.")
 }
 
 if !(shell("id -u") == "0\n"){
