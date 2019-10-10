@@ -46,3 +46,4 @@ Known issues
 ----
 * #1 Permission issue - read only
 * #2 Can't use Sidecar - due to "newer MacOS needed" error **fixed**
+* #29 Low quality
