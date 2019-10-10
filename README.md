@@ -26,6 +26,7 @@ Please open issues if something doesn't work!
 
 Testing
 ----
+<pre>
 19A546d ✅
 
 19A558d ⚠️ Not tested, please open an issue wether it works or not.
@@ -37,6 +38,8 @@ Testing
 19A583  ✅
 
 19A558d ✅
+
+</pre>
 
 
 Known issues
