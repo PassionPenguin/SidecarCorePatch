@@ -26,14 +26,17 @@ Please open issues if something doesn't work!
 
 Testing
 ----
-Beta 19A546d ✅
+19A546d ✅
 
-Beta 19A558d ⚠️ Not tested, please open an issue wether it works or not.
+19A558d ⚠️ Not tested, please open an issue wether it works or not.
 
-Beta 19A573a ✅
+19A573a ✅
 
-Beta 19A578c ✅
+19A578c ✅
 
+19A583  ✅
+
+19A558d ✅
 
 
 Known issues
